@@ -2,4 +2,6 @@ This is the second Front-end Project from freecodecamp.org from their 'Responsiv
 
 I have focused on the HTML to ensure that the survey functions properly. 
 
-There is currently no active CSS on this file. Will work towards having it resemble the example page, see: https://codepen.io/freeCodeCamp/full/VPaoNP 
+There is minimal CSS on this file to look practical but nothing comprehensive. It somewaht resembles the example page, see: https://codepen.io/freeCodeCamp/full/VPaoNP 
+
+I will appreciate any feedback or suggestions about the HTML side of things, I'm not too fussed about the look of it as I'm not a Graphic Designer.
